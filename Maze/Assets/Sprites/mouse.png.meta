@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 616416d44c28ef549a6f00a262540a84
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mouse_0
+    21300002: Mouse_1
+    21300004: Mouse_2
+    21300006: Mouse_3
+    21300008: Mouse_4
+    21300010: Mouse_5
+    21300012: Mouse_6
+    21300014: Mouse_7
+    21300016: Mouse_8
+    21300018: Mouse_9
+    21300020: Mouse_10
+    21300022: Mouse_11
+    21300024: Mouse_12
+    21300026: Mouse_13
+    21300028: Mouse_14
+    21300030: Mouse_15
+    21300032: mouse_0
+    21300034: mouse_1
+    21300036: mouse_2
+    21300038: mouse_3
+    21300040: mouse_4
+    21300042: mouse_5
+    21300044: mouse_6
+    21300046: mouse_7
+    21300048: mouse_8
+    21300050: mouse_9
+    21300052: mouse_10
+    21300054: mouse_11
+    21300056: mouse_12
+    21300058: mouse_13
+    21300060: mouse_14
+    21300062: mouse_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mouse_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 152
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 62
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
