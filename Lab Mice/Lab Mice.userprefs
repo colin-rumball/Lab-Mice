@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\LiarLiar\Assets\Scripts\Driver\Driver.cs">
+    <Files>
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Global.cs" Line="7" Column="31" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Interrogation\Interrogation.cs" Line="42" Column="4" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Driver\Driver.cs" Line="51" Column="27" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Avoidance\Avoidance.cs" Line="69" Column="9" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Driver\DriverUserControl.cs" Line="18" Column="9" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Driver\Driver_Collectable.cs" Line="6" Column="32" />
+      <File FileName="..\..\LiarLiar\Assets\Scripts\Driver\Driver_Obstacle.cs" Line="6" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Managers\TouchInputManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Managers\ControllerInputManager.cs" Line="31" Column="24" />
+      <File FileName="Assets\Scripts\Character.cs" Line="54" Column="54" />
+      <File FileName="Assets\Scripts\NetworkCharacter.cs" Line="63" Column="1" />
+      <File FileName="Assets\Scripts\Game.cs" Line="319" Column="3" />
+      <File FileName="Assets\Scripts\Managers\GUIManager.cs" Line="209" Column="91" />
+      <File FileName="Assets\Scripts\Managers\NetworkManager.cs" Line="118" Column="45" />
+      <File FileName="Assets\Scripts\Managers\ObjectManager.cs" Line="159" Column="28" />
+      <File FileName="Assets\Scripts\Managers\TouchInputManager.cs" Line="56" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
